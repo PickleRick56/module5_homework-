@@ -1,0 +1,1 @@
+console.log('Hellow'.split("").reverse().join(""))
